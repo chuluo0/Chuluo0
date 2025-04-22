@@ -78,5 +78,8 @@
 <h3>我的编程世界就像武侠世界一样精彩而绚烂，每一次进步都像是掌握了一门武功</h3>
 <img src="./img/hb.png">
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
+<br/>
 
+<img src="./img/footer.webp">
