@@ -23,6 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuluo0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![profile-3d-contrib](https://zgq-inc.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
