@@ -16,7 +16,8 @@
 - 👦 I am a teenager from China, and I started my programming journey in 2022.<br/>
 - 🖥️ At the age of 15, I had my own computer.<br/>
 - 📚 I am still constantly learning knowledge now.<br/>
-- 🔭 The skills mastered include programming, music, drawing, game development, 3D modeling, and animation production
+- 🔭 The skills mastered include programming, music, drawing, game development, 3D modeling, and animation production<br/>
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.
 <br/>
 <br/>
 <p align="center">
